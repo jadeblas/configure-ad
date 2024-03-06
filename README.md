@@ -31,10 +31,7 @@ This guide illustrates the process of setting up Active Directory in Microsoft A
 
 <p>
   <ul>
-    <li>Install the Client VM using the standard Windows 10 image (OS).</li>
-    <ul>
-      <li>Refer to the <b><a href="https://github.com/jadeblas/vm-network">tutorial</a></b> for instructions on VM installation and Remote Desktop access.</li>
-    </ul>      
+    <li>Install the Client VM using the standard Windows 10 image (OS).</li>    
     <li>Create the Domain Controller VM with Active Directory, using the <b>Windows Server 2022 Datacenter: Azure Edition - x64 Gen2</b> image.</li>
     <ul>
       <li><img src="https://github.com/jadeblas/configure-ad/assets/161860082/7e85bce6-826f-4947-be95-b6d37d15ce4e" height="80%" width="80%"/></li>
